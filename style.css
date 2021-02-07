@@ -198,6 +198,22 @@ h2 {
   margin-bottom: 10px;
   transition: 0.2s;
 }
+.btn-1 {
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  background-color: #14bba5;
+  padding: auto;
+  margin-top: 10px;
+  border-radius: 4px 0 4px 0;
+  box-shadow: inset 0 0 0 0 #f9e506;
+  transition: ease-out 0.3s;
+  font-size: small;
+}
+.btn-1:hover {
+  box-shadow: inset 357px 0 0 0 #f9e506;
+  cursor: pointer;
+  color: white;
+}
 
 
 ul {
